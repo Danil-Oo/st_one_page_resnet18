@@ -8,3 +8,4 @@ numpy
 matplotlib
 requests
 scipy
+torchutils @ git+https://github.com/anjandeepsahni/torchutils.git
