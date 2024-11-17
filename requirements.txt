@@ -1,11 +1,10 @@
-streamlit==1.39.0
-torch==2.5.1+cu118
-torchvision==0.20.1+cu118
-Pillow==10.4.0
-seaborn==0.13.2
-scikit-learn==1.5.2
-numpy==1.26.4
-matplotlib==3.9.2
-requests==2.32.3
-scipy==1.14.1
-torchutils @ git+https://github.com/anjandeepsahni/torchutils.git@6e2dcdb6a2b18b4e650fd738fecda779fe1822df
+streamlit
+torch
+torchvision
+Pillow
+seaborn
+scikit-learn
+numpy
+matplotlib
+requests
+scipy
